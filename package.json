@@ -27,7 +27,7 @@
     "parse-git-config": "^3.0.0",
     "plop": "^2.5.3",
     "plop-helper-git-config": "^1.0.0",
-    "prettier": "2.0.4",
+    "prettier": "2.0.5",
     "pretty-quick": "^2.0.1",
     "typescript": "^3.7.5"
   }
