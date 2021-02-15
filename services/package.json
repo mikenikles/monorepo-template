@@ -1,0 +1,18 @@
+{
+  "name": "frontend-services",
+  "version": "1.0.0",
+  "description": "Frontend related services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ziskand/monorepo-template"
+  },
+  "keywords": [
+    "monorepo"
+  ],
+  "author": "Yigal Ziskand, @ziskand",
+  "license": "ISC"
+}
